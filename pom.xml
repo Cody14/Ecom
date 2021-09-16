@@ -16,10 +16,11 @@
     <version>1.2</version>
 	</dependency>
 	<dependency>
-    <groupId>org.webjars.bower</groupId>
-    <artifactId>jspdf</artifactId>
-    <version>2.3.1</version>
-   </dependency>
+	<groupId>org.webjars.bowergithub.mrrio</groupId>
+	<artifactId>jspdf</artifactId>
+	<version>1.4.0</version>
+</dependency>
+
 	<dependency>
     <groupId>com.google.code.gson</groupId>
     <artifactId>gson</artifactId>
